@@ -16,9 +16,9 @@ AVERAGEX(
 
 Dashboard Features
 
-✔ KPI Cards for Total Revenue and YTD
-✔ Sales by State (Bar Chart)
-✔ Category-wise Sales (Column Chart)
-✔ Payment Mode Distribution (Pie Chart)
-✔ Quarterly Trend Analysis
-✔ Interactive Filters (Slicers)
+* KPI Cards for Total Revenue and YTD
+* Sales by State (Bar Chart)
+* Category-wise Sales (Column Chart)
+* Payment Mode Distribution (Pie Chart)
+* Quarterly Trend Analysis
+* Interactive Filters (Slicers)
